@@ -18,5 +18,5 @@
     <img aling="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div> <br/>
 
-- Focado em virar desenvolvedor Front-End, estudo um ano de programação e tenho diversos repositórios com projetos simples e projetos completos com desenvolvimeno FullStack.
+- Focado em virar desenvolvedor Web, estudo 4 anos de programação e tenho diversos repositórios com projetos simples e projetos completos com desenvolvimeno FullStack.
 - Apaixonado por tecnologia e tudo que ela pode oferecer.
