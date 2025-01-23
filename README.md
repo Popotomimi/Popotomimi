@@ -16,6 +16,9 @@
     <img aling="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img aling="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img aling="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img aling="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    
 </div> <br/>
 
 - Focado em virar desenvolvedor Web, estudo 4 anos de programação e tenho diversos repositórios com projetos simples e projetos completos com desenvolvimeno FullStack.
