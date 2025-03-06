@@ -21,5 +21,5 @@
     
 </div> <br/>
 
-- Focado em virar desenvolvedor Web, estudo 4 anos de programação e tenho diversos repositórios com projetos simples e projetos completos com desenvolvimeno FullStack.
+- Desenvolvedor Web com 1 ano de experiencia com diversos projetos simples e projetos completos com desenvolvimeno FullStack.
 - Apaixonado por tecnologia e tudo que ela pode oferecer.
