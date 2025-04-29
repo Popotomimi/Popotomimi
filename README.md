@@ -21,5 +21,4 @@
     
 </div> <br/>
 
-- Desenvolvedor Web com 1 ano de experiencia com diversos projetos simples e projetos completos com desenvolvimeno FullStack.
-- Apaixonado por tecnologia e tudo que ela pode oferecer.
+![snake gif](https://github.com/popotomimi/popotmimi/blob/output/github-contribution-grid-snake.svg)
