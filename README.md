@@ -21,4 +21,6 @@
     
 </div> <br/>
 
-![snake gif](https://github.com/popotomimi/popotomimi/blob/output/github-contribution-grid-snake.svg)
+<footer>
+  <p>Roberto &copy; </p>
+</footer>
