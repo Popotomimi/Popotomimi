@@ -27,8 +27,6 @@
     
 </div> <br/>
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=Popotomimi&color=blue)
-
 <div align="center">
 
 ### Feito com 💙 por Roberto de Oliveira
