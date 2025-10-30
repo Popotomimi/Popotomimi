@@ -1,6 +1,6 @@
 ## - Roberto de Oliveira. 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&hide=html,Handlebars)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&langs_count=10&theme=dark&hide=html,Handlebars)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark)
 
