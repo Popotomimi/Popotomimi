@@ -1,8 +1,16 @@
 ## - Roberto de Oliveira. 💻
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&langs_count=10&theme=dark&hide=html,Handlebars)
+### Sobre mim
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark)
+<p>Sou Roberto de Oliveira, desenvolvedor Full Stack na Grupo Eletrônica Santana, atuando na equipe de Sistemas. Minha missão é criar soluções tecnológicas eficientes e escaláveis, garantindo qualidade e inovação em cada projeto.</p>
+<p>Com experiência em desenvolvimento frontend e backend, trabalho com tecnologias modernas para entregar aplicações robustas e seguras. Tenho foco em melhoria contínua, automação de processos e integração de sistemas, sempre alinhado às necessidades do negócio.</p>
+
+### Áreas de atuação:
+
+Desenvolvimento de aplicações web
+Integração de APIs e sistemas internos
+Otimização de performance e segurança
+Implementação de boas práticas de arquitetura e código
 
 ### - Skills:
 
