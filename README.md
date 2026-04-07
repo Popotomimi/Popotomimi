@@ -40,7 +40,7 @@ Implementação de boas práticas de arquitetura e código
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedrohgdSantos&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=tokyonight"/>
 </div>
 
 ---
