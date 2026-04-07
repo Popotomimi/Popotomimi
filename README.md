@@ -35,6 +35,16 @@ Implementação de boas práticas de arquitetura e código
     
 </div> <br/>
 
+---
+
+<h3 align="center">📊 Estatísticas do GitHub</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedrohgdSantos&theme=tokyonight"/>
+</div>
+
+---
+
 <div align="center">
 
 ### Feito com 💙 por Roberto de Oliveira
