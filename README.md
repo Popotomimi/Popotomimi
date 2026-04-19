@@ -1,18 +1,24 @@
-## - Roberto de Oliveira. 💻
+## - Roberto de Oliveira 💻
 
 ### Sobre mim
 
-<p>Sou Roberto de Oliveira, desenvolvedor Full Stack na Grupo Eletrônica Santana, atuando na equipe de Sistemas. Minha missão é criar soluções tecnológicas eficientes e escaláveis, garantindo qualidade e inovação em cada projeto.</p>
-<p>Com experiência em desenvolvimento frontend e backend, trabalho com tecnologias modernas para entregar aplicações robustas e seguras. Tenho foco em melhoria contínua, automação de processos e integração de sistemas, sempre alinhado às necessidades do negócio.</p>
+Sou Roberto de Oliveira, desenvolvedor Full Stack na Grupo Eletrônica Santana, atuando na equipe de Sistemas.  
+Minha missão é criar soluções tecnológicas eficientes e escaláveis, garantindo qualidade e inovação em cada projeto.  
+
+Com experiência em desenvolvimento frontend e backend, trabalho com tecnologias modernas para entregar aplicações robustas e seguras.  
+Tenho foco em melhoria contínua, automação de processos e integração de sistemas, sempre alinhado às necessidades do negócio.  
+
+---
 
 ### Áreas de atuação:
+- Desenvolvimento de aplicações web  
+- Integração de APIs e sistemas internos  
+- Otimização de performance e segurança  
+- Implementação de boas práticas de arquitetura e código  
 
-Desenvolvimento de aplicações web
-Integração de APIs e sistemas internos
-Otimização de performance e segurança
-Implementação de boas práticas de arquitetura e código
+---
 
-### - Skills:
+### 🚀 Skills
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,24 +38,23 @@ Implementação de boas práticas de arquitetura e código
     <img aling="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img aling="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img aling="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" />
-    
 </div> <br/>
 
 ---
 
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=tokyonight"/>
-</div>
+</p>
 
-<div>
-    ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark" />
+</p>
 
-<div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark" />
+</p>
 
 ---
 
@@ -57,9 +62,8 @@ Implementação de boas práticas de arquitetura e código
 
 ### Feito com 💙 por Roberto de Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-de-oliveira-35976621b/)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://popotomimi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-de-oliveira-35976621b/)  
+[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://popotomimi.netlify.app/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberto_o7@outlook.com)
 
 </div>
-
