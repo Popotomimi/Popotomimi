@@ -43,6 +43,15 @@ Implementação de boas práticas de arquitetura e código
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=tokyonight"/>
 </div>
 
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=popotomimi&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=popotomimi&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+</div>
+
 ---
 
 <div align="center">
