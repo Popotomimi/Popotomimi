@@ -44,7 +44,11 @@ Implementação de boas práticas de arquitetura e código
 </div>
 
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popotomimi&show_icons=true&theme=transparent)
+    ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark)
+</div>
+
+<div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark)
 </div>
 
 ---
