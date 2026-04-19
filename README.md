@@ -45,15 +45,9 @@ Tenho foco em melhoria contínua, automação de processos e integração de sis
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark&hide=html,css,handlebars" />
 </p>
 
 ---
@@ -62,8 +56,17 @@ Tenho foco em melhoria contínua, automação de processos e integração de sis
 
 ### Feito com 💙 por Roberto de Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-de-oliveira-35976621b/)  
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://popotomimi.netlify.app/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberto_o7@outlook.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/roberto-de-oliveira-35976621b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://popotomimi.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:roberto_o7@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
