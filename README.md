@@ -70,17 +70,6 @@ Tenho foco em melhoria contínua, automação de processos e integração de sis
     <img aling="center" alt="VISUAL STUDIO CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div> <br/>
 
-
----
-
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Popotomimi&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Popotomimi&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popotomimi&layout=compact&theme=dark&hide=html,css,handlebars" />
-</p>
-
 ---
 
 <div align="center">
